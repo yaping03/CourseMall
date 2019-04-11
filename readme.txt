@@ -1,0 +1,3 @@
+vue+Django+rest_framework前后端分离
+api序列化数据库操作，mysql+redis
+在线课程商城...
